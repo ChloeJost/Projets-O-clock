@@ -1,0 +1,24 @@
+{
+  "name": "s03-ateliersolo-express-SimonMARTIN87",
+  "version": "1.0.0",
+  "description": "Chez O'Clock, ce qu'on aime le plus, c'est nos étudiants (vous, du coup :heart:).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-Zenith/s03-ateliersolo-express-SimonMARTIN87.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-Zenith/s03-ateliersolo-express-SimonMARTIN87/issues"
+  },
+  "homepage": "https://github.com/O-clock-Zenith/s03-ateliersolo-express-SimonMARTIN87#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
