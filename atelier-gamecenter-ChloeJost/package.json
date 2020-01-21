@@ -1,0 +1,26 @@
+{
+  "name": "s03-e06-atelier-gamecenter-jpruliere",
+  "version": "1.0.0",
+  "description": "Bon, on a quelques jeux qui traînent, c'est cool ! Mais c'est le bazar !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-Zenith/s03-e06-atelier-gamecenter-jpruliere.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-Zenith/s03-e06-atelier-gamecenter-jpruliere/issues"
+  },
+  "homepage": "https://github.com/O-clock-Zenith/s03-e06-atelier-gamecenter-jpruliere#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "pretty": "^2.0.0"
+  }
+}

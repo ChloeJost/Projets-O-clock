@@ -1,0 +1,49 @@
+body {
+    background: #ddd;
+  }
+  
+  .player {
+    width: 28px;
+    height: 32px;
+    background-image: url(../images/sprite.png);
+    background-position: 0 0;
+    margin: 20px;
+  }
+  
+  .player-right {
+    background-position-y: 64px;
+  }
+  
+  .player-up {
+    background-position-y: 32px;
+  }
+  
+  .player-left {
+    background-position-y: 96px;
+  }
+  
+  .player-down {
+    background-position-y: 0;
+  }
+  
+  /* plateau */
+  
+  #board {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .row {
+    display: flex;
+    margin: auto;
+  }
+  
+  .cell {
+    width: 70px;
+    height: 70px;
+    border: 1px solid black;
+  }
+  
+  .targetCell {
+    background-color: green;
+  }
