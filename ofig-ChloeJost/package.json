@@ -1,0 +1,26 @@
+{
+  "name": "ofig-YannOclock",
+  "version": "1.0.0",
+  "description": "## Étape 1: Mise en place",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-Zenith/ofig-YannOclock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-Zenith/ofig-YannOclock/issues"
+  },
+  "homepage": "https://github.com/O-clock-Zenith/ofig-YannOclock#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "sqlite3": "^4.1.1"
+  }
+}
