@@ -19,6 +19,6 @@
   "homepage": "https://github.com/O-clock-Zenith/s03-ateliersolo-express-SimonMARTIN87#readme",
   "dependencies": {
     "ejs": "^3.0.1",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
